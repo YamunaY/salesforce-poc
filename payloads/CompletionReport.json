@@ -70,10 +70,11 @@
                 "post": "free text",
                 "dateAdvertised": "2019-01-01",
                 "dateAppointed": "2019-01-01",
-                "salary": 10000
+                "salary": 10000,
+                "staffLinked": "true"
             }
         ],
-        "staffLinked": "Yes",
+        
         "howCostsSpent": [
             {
                 "costHeading": "free text",
